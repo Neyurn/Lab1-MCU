@@ -1,0 +1,5 @@
+.settings/
+STM32F103C6UX_FLASH.ld
+Debug/
+.cproject
+.mxproject
