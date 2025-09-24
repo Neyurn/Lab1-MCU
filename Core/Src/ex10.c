@@ -17,8 +17,8 @@ void ex10_init(){
 }
 void ex10_run(){
 	int sec = 0;
-	int min = 0;
-	int hour = 0;
+	int min = 53;
+	int hour = 3;
 
 	while(1){
 		clearAllClock();
@@ -39,6 +39,6 @@ void ex10_run(){
 			hour = 0;
 		}
 
-		HAL_Delay(200);
+		HAL_Delay(10);
 	}
 }

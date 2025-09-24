@@ -105,8 +105,8 @@ int main(void)
 
   while (1)
   {
-        ex10_init();
-	    ex10_run();
+        ex7_init();
+	    ex7_run();
 
 
 	  HAL_Delay(1000);
