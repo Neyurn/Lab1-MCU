@@ -12,9 +12,9 @@
 
 
 typedef enum{
-	RED,
-	YELLOW,
-	GREEN
+	RED,  // led red ON
+	YELLOW,  // led yellow ON
+	GREEN  //  led green ON
 } color;
 
 void ex2_init(){
